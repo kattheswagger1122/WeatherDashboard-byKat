@@ -36,5 +36,15 @@ THEN I am again presented with current and future conditions for that city
 
 The following image demonstrates the application functionality:
 
+# Page Screenshots
+
+1.
+
+
+2.
+
+
+3.
+
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
