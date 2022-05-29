@@ -1,8 +1,11 @@
 # WeatherDashboard-by Kat
 ## Review
-* The URL of the deployed application.
+* The URL of the deployed application: 
+https://kattheswagger1122.github.io/WeatherDashboard-byKat/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a high-quality README describing the project.
+* The URL of the GitHub repository. Give the repository a unique name and include a high-quality README describing the project.:
+
+    https://github.com/kattheswagger1122/WeatherDashboard-byKat.git
 
 # 06 Server-Side APIs: Weather Dashboard
 
@@ -34,17 +37,27 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
-The following image demonstrates the application functionality:
+
 
 # Page Screenshots
+## The following image demonstrates the application functionality:
 
-1.
+# 1.
+Main Weather Dashboard
+![Main Weather Dashboard](../WeatherDashboard-byKat/assets/img/mainpage.png)
 
+# 2.
+Favorable UV Index
+![Favorable UV Index](../WeatherDashboard-byKat/assets/img/moderate.png)
 
-2.
+# 3. 
+Moderate UV Index
+![Moderate UV Index](../WeatherDashboard-byKat/assets/img/moderateweather.png)
 
+# 4.
+Severe UV Index
+![Severe UV Index](../WeatherDashboard-byKat/assets/img/severe.png)
 
-3.
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
