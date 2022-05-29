@@ -168,7 +168,7 @@ var display5Day = function(weather){
        forecastTempEl.classList = "card-body text-center";
        forecastTempEl.textContent = dailyForecast.main.temp + " °F";
 
-        //append to forecast card
+       //append to forecast card
         forecastEl.appendChild(forecastTempEl);
 
        var forecastHumEl=document.createElement("span");
@@ -178,9 +178,19 @@ var display5Day = function(weather){
        //append to forecast card
        forecastEl.appendChild(forecastHumEl);
 
+       
+       //Create Wind Speed Card 
+       var windSpeedEl = document.createElement("span");
+       windSpeedEl.classList = "card-body text-center";
+       windSpeedEl.textContent = dailyForecast.main.temp + " MPH"
+
+       //append to forecast card
+       forecastEl.appendChild(windSpeedEl);
+
         // console.log(forecastEl);
        //append to five day container
         forecastContainerEl.appendChild(forecastEl);
+
     }
 
 }
