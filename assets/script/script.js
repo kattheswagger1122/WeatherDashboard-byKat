@@ -13,7 +13,7 @@ var formSumbitHandler = function(event){
     var city = cityInputEl.value.trim();
     if(city){
         getCityWeather(city);
-        get5Day(city);
+        display5Day(city);
         cities.unshift({city});
         cityInputEl.value = "";
     } else{
@@ -126,7 +126,7 @@ var display5Day = function(weather){
     forecastTitle.textContent = "5-Day Forecast:";
 
     var forecast = weather.list;
-        for(var i=5; i < forecast.length; i=i+8){
+        for(var i=5; i < forecast.length; i=i+++8){
        var dailyForecast = forecast[i];
         
        
