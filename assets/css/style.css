@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(126, 170, 209, 0.623);
+    background-color: rgba(182, 221, 255, 0.648);
 }
 
 .search-column{
@@ -16,7 +16,7 @@ body {
 
 span.severe{
     padding: 3px;
-    background-color: red;
+    background-color: rgb(214, 0, 0);
     color:white;
 }
 
