@@ -44,20 +44,19 @@ THEN I am again presented with current and future conditions for that city
 
 # 1.
 Main Weather Dashboard
-![Main Weather Dashboard](../WeatherDashboard-byKat/assets/img/mainpage.png)
+![Main Weather Dashboard](./assets/img/mainpage.png)
 
 # 2.
 Favorable UV Index
-![Favorable UV Index](../WeatherDashboard-byKat/assets/img/moderate.png)
+![Favorable UV Index](./assets/img/moderateweather.png)
 
 # 3. 
 Moderate UV Index
-![Moderate UV Index](../WeatherDashboard-byKat/assets/img/moderateweather.png)
+![Moderate UV Index](./assets/img/moderate.png)
 
 # 4.
 Severe UV Index
-![Severe UV Index](../WeatherDashboard-byKat/assets/img/severe.png)
-
+![Severe UV Index](./assets/img/severe.png)
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
